@@ -6,8 +6,9 @@
    }
    h1{
    color:Blue;
-   border-bottom:2px dashed black
+   border-bottom:2px dashed black;
    background-color:yellow;
+   font-family:verdana;
    }
    p{
    color:white;
@@ -18,7 +19,7 @@
  </head> 
  <body> 
   <h1><u>Peacock</u></h1> 
-  <img src="images.jpeg" align="center" title="Peacock">
+  <img src="images.jpeg" align="middle" title="Peacock">
   <p>Peafowl is a common name for three species of birds in the genera Pavo and Afropavo of the Phasianidae family, the pheasants and their allies. Male peafowl are referred to as peacocks, and female peafowl as peahens, though peafowl of either sex are often referred to colloquially as "peacocks."</p>
     <br>
       <br>
