@@ -8,7 +8,7 @@
         <br>
  <form>
    <fieldset>
-     <lengend>list of cars</lengend >
+     <lengend>list of cars</lengend ><br>
        <input type="checkbox">Bugatti<br>
          <input type="checkbox">Lambhorgini<br>
            <input type="checkbox">Rolls Royce
