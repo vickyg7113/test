@@ -3,7 +3,7 @@
   <style>
    h1{
    color:Blue;
-   border:2px dashed black
+   border-bottom:2px dashed black
    background-color:yellow;
    }
    p{
