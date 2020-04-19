@@ -1,6 +1,9 @@
 <html>
  <head>
   <style>
+   body{
+   font-family:cursive;
+   }
    h1{
    color:Blue;
    border-bottom:2px dashed black
