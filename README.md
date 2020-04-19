@@ -9,7 +9,7 @@
    p{
    color:white;
    background-color:black;
-   border:line black;
+   font-family:cursive;
    }
    </style>
  </head> 
