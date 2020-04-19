@@ -2,7 +2,7 @@
  <head></head> 
  <body> 
   <h1><b> My first page</b></h1> 
-  <img src="images.jpeg" width="200" height="200 title="Peacock">
+  <img src="images.jpeg" title="Peacock">
     <br>
       <br>
         <br>
