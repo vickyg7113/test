@@ -20,6 +20,9 @@
    background-color:black;
    font-family:cursive;
    }
+ p:hover{
+ color:orange;
+ }
    .i{
    display:block;
    margin-left:auto;
