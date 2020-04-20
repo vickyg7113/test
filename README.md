@@ -1,7 +1,34 @@
 <html>
  <head>
-
-
+<style>
+ body{
+   font-family:cursive;
+   border-color:black;
+   border-width:3px;
+   border-style:dashed;
+   background-color:#FFE5B4;
+   }
+   h1{
+   color:Blue;
+   border-bottom:2px dashed black;
+   background-color:yellow;
+   font-family:verdana;
+   }
+   p{
+   color:white;
+   background-color:black;
+   font-family:cursive;
+   }
+   .i{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   border-color:black;
+   border-width:3px;
+   border-style:dashed;
+   padding: 2px 2px 2px 2px;  
+   }
+ </style>
  </head> 
  <body> 
   <h1><u>Peacock</u></h1> 
