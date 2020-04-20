@@ -28,7 +28,7 @@
    border-width:3px;
    border-style:dashed;
    padding: 2px 2px 2px 2px;  
- border-radius:25%;
+ border-radius:100%;
    }
  </style>
  </head> 
