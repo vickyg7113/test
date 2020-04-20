@@ -7,6 +7,7 @@
    border-width:3px;
    border-style:dashed;
    background-color:#FFE5B4;
+ background-image:url('images (1).jpeg');
    }
    h1{
    color:Blue;
