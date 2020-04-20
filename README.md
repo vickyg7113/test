@@ -7,6 +7,7 @@
    border-width:3px;
    border-style:dashed;
    background-color:#FFE5B4;
+ background-image:url(https://www.google.com/search?safe=active&client=ms-android-oppo&ei=dDadXurYHcOe9QOJvb4o&q=clouds+images&oq=clouds&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYAjICCCkyBQgAEJECMgUIABCRAjIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADoGCAAQBxAeOgQIABAeOgQIABAKUOEoWJAwYN06aABwAHgAgAHkBIgBkA6SAQkyLTIuMS4xLjGYAQCgAQE&sclient=mobile-gws-wiz-serp#imgrc=40KsXGnoD7MoRM:);
    }
    h1{
    color:Blue;
