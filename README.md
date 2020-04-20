@@ -22,6 +22,9 @@
    display:block;
    margin-left:auto;
    margin-right:auto;
+   border-color:black;
+   border-width:3px;
+   border-style:dashed;
    
    }
    </style>
