@@ -3,6 +3,9 @@
   <style>
    body{
    font-family:cursive;
+   border-color:black;
+   border-width:3px;
+   border-style:dashed;
    }
    h1{
    color:Blue;
@@ -19,6 +22,7 @@
    display:block;
    margin-left:auto;
    margin-right:auto;
+   
    }
    </style>
  </head> 
