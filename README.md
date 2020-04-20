@@ -6,7 +6,7 @@
    border-color:black;
    border-width:3px;
    border-style:dashed;
-   background-color:lime;
+   background-color:*ffcf79;
    }
    h1{
    color:Blue;
