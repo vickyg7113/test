@@ -38,7 +38,7 @@
         <br>
  <form>
    <fieldset>
-     <lengend><h2>list of cars</h2></lengend ><br>
+     <lengend><h2><u>List of cars</u></h2></lengend ><br>
        <input type="checkbox">Bugatti<br>
          <input type="checkbox">Lambhorgini<br>
            <input type="checkbox">Rolls Royce
