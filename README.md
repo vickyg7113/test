@@ -1,6 +1,6 @@
 <html>
  <head>
-<link rel="stylesheet.css"type="text/css"href="stylesheet.css">
+<link rel="stylesheet"type="text/css"href="stylesheet">
  </head> 
  <body> 
   <h1><u>Peacock</u></h1> 
