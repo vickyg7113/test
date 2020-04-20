@@ -6,7 +6,7 @@
    border-color:black;
    border-width:3px;
    border-style:dashed;
-   background-color:rgb(220,20,200);
+   background-color:lime;
    }
    h1{
    color:Blue;
