@@ -7,7 +7,6 @@
    border-width:3px;
    border-style:dashed;
    background-color:#FFE5B4;
- background-image:url('IMG-20200409-WA0003.jpg');
    }
    h1{
    color:Blue;
