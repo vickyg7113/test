@@ -25,6 +25,8 @@
    border-color:black;
    border-width:3px;
    border-style:dashed;
+   padding: 2px 2px 2px 2px;
+   
    
    }
    </style>
