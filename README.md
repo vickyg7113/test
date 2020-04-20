@@ -7,7 +7,7 @@
    border-width:3px;
    border-style:dashed;
    background-color:#FFE5B4;
- background-image:url(clouds.gif);
+ background-image:url(images.jpeg);
    }
    h1{
    color:Blue;
